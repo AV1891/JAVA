@@ -23,5 +23,19 @@ class Main {
     {
       System.out.println( num +" is an Odd number");
     }
+    
+    int s=25;
+    if (s>30)
+    {
+      System.out.println("Number is greater than 30");
+    }
+  if (s>20)
+  {
+    System.out.println("Number is greater than 20");
+  }
+    if(s>10)
+    {
+      System.out.println("The number is greater than 10");
+    }
   }
 }
