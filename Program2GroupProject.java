@@ -9,7 +9,7 @@ class Main {
     final double PI = 3.14;
     area = radius*radius*PI;
       if(radius<0){
-        System.out.print("Negstive input");
+        System.out.print("Negative input");
       }
     else if(radius>0){
       System.out.print("Area: " + area);
