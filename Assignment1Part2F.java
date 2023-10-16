@@ -13,7 +13,7 @@ class Main {
         } else if (lang == 'p') {
             System.out.println("ਤੁਸੀਂ ਕਿਵੇਂ ਹੋ? ");
         } else {
-            System.out.println("Sorry, we don't have a greeting in your preferred language.");
+            System.out.println("Sorry, I dont know your preferred language.");
         }
         scanner.close();
     }
